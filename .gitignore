@@ -1,0 +1,63 @@
+## .NET Core
+bin/
+obj/
+publish/
+publish_v*/
+*.dll
+*.exe
+*.deps.json
+*.runtimeconfig.json
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+
+## Project files
+*.csproj.user
+
+## NCrunch
+*.ncrunch*
+*.*crunch*.local*
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## JetBrains Rider
+.idea/
+
+## NuGet
+packages/
+*.nupkg
+
+## Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## ONNX model (too large for git)
+onnx_model/*.onnx
+onnx_model/*.wav
+
+## ZIP files
+*.zip
