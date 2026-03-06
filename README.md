@@ -21,14 +21,14 @@
 ## 使用方法
 
 ### 直接运行
-1. 从 [Releases](https://github.com/YOUR_USERNAME/UyghurTranslator/releases) 下载最新版本
+1. 从 [Releases](https://github.com/Null-C0de/UyghurTranslator/releases) 下载最新版本
 2. 解压到任意目录
 3. 运行 `汉维互译翻译器.exe`
 
 ### 自行编译
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/UyghurTranslator.git
+git clone https://github.com/Null-C0de/UyghurTranslator.git
 cd UyghurTranslator
 
 # 发布应用
